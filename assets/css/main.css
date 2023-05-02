@@ -199,9 +199,9 @@ input, select, textarea {
 		margin: 0 0 2.25em 0;
 		padding: 0.5em 0 0.5em 2em;
 	}
-
+------kolor tabeli
 	code {
-		background: #555;
+		background: red;
 		border-radius: 5px;
 		color: #fff;
 		font-family: "Source Code Pro", monospace;

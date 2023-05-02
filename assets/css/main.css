@@ -1758,7 +1758,7 @@ input, select, textarea {
 	}
 
 	header p {
-		color: #aaa;
+		color: #a4a81b;
 		position: relative;
 		margin: 0 0 1.6875em 0;
 	}
@@ -1847,7 +1847,7 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #4acaa8;
+			border-color: #a4a81b;
 		}
 
 	select {
@@ -1862,7 +1862,7 @@ input, select, textarea {
 
 		select option {
 			color: #777;
-			background: #fff;
+			background: #a4a81b;
 		}
 
 		select:focus::-ms-value {
@@ -1944,15 +1944,15 @@ input, select, textarea {
 
 		input[type="checkbox"]:checked + label:before,
 		input[type="radio"]:checked + label:before {
-			background: #989898;
-			border-color: #989898;
+			background: #a4a81b;
+			border-color: #a4a81b;
 			color: #ffffff;
 			content: '\f00c';
 		}
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #4acaa8;
+			border-color: #a4a81b;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2235,7 +2235,7 @@ input, select, textarea {
 		}
 
 			ul.alt li {
-				border-top: solid 2px #f4f4f4;
+				border-top: solid 2px #a4a81b;
 				padding: 0.5em 0;
 			}
 

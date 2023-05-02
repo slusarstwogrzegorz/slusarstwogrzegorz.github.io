@@ -201,7 +201,7 @@ input, select, textarea {
 	}
 ------kolor tabeli
 	code {
-		background: red;
+		background: #8B0000;
 		border-radius: 5px;
 		color: #fff;
 		font-family: "Source Code Pro", monospace;
